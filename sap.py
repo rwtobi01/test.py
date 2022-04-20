@@ -1,0 +1,5 @@
+first_number= int(input("enter first_number:"))
+second_number=int(input("enter second_number:"))
+third_number=int(input("enter third_number:"))
+    id_number>first_number)
+print("second_number")
